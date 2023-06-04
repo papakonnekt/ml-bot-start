@@ -1,0 +1,16 @@
+The requirements.txt file should contain the following dependencies:
+
+```
+pandas
+numpy
+scikit-learn
+torch
+opencv-python
+pytesseract
+```
+
+These are the required Python libraries for data manipulation and machine learning, as well as YOLOv5 and Tesseract OCR for object detection and text recognition, respectively. The dependencies can be installed using the following command:
+
+```
+pip install -r requirements.txt
+```
